@@ -1,7 +1,9 @@
-# codevember-2019-xx
-codevember-xx // 2019.11.xx // xx
+# codevember-2019-03
+codevember-03 // 2019.11.03 // Deep
 
 30 days, 30 creative experiments. CodeVember is a challenge for developers creating a creative sketch by day during the whole month of November.
 
 ## Description
-This is a template repo for my codevember sketches. It is setup to use the latest version of p5js in instanced mode. Works great with static hosting in github pages :sunglasses:
+DEEEEEEEEEEP. Never ending hole.
+
+I want to make it look like you are tunneling through the earth forever and ever. :bug:
